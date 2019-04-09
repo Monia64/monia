@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8" />
+        <title> findThePrecious </title>
+        <link rel="stylesheet" href="findThePrecious_css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    </head>
+
+<body>
+        <header>
+            <h1> FindThePrecious.com </h1>
+        
+        <nav>
+            <ul>
+            
+                <li> <a href="#">fellows</a> </li>
+                <li> <a href="#">The Ring</a> </li>
+                <li> <a href="#">Get my reward</a> </li>
+                <li> <a href="#">Best hunters</a> </li>
+                <li> <a href="#">Join the army</a> </li>
+                <li> <a href="#">Contact Us</a> </li>
+                
+            </ul>
+        </nav>
+                  
+        </header>
+        
+        <div id="banner">
+        
+            <!--texte dans image (bannière)-->
+            
+            <p> Dangerous fellowship try to destroy the ring </p>
+            <img src="https://via.placeholder.com/140*140" alt=""/>
+        </div>
+            
+        <section id="fellows">
+            
+                    
+            <h2> Fellows wanted dead (or alive if you want to eat them later) </h2>
+                
+             <ul>
+                             
+                <li> Most wanted </li>
+                <li> Most dangerous </li>
+                <li> Already captured </li>
+                
+             </ul>
+               
+               <!--3 images alignées avec légende-->
+             
+                
+                 <figure>
+                    <a href="https://placeholder.com"><img src="https://via.placeholder.com/140*140" alt=""></a>
+                    <figcaption>The Wizard</figcaption>
+                 </figure>
+            
+               
+             
+                <figure>
+                    
+                <a href="https://placeholder.com"><img src="https://via.placeholder.com/140*140" alt=""></a>
+                <figcaption>Hobbit#3</figcaption>
+                 </figure>
+                
+                       
+                    
+                <figure>
+                 <a href="https://placeholder.com"><img src="https://via.placeholder.com/140*140" alt=""></a>
+                 <figcaption>Yummy Dwarf</figcaption>
+                </figure>
+             
+                      
+             </section>
+             
+             <section id="reward">
+                             
+                <h2> I have capture one of them, how to get my reward ? </h2>              
+                               
+         
+                 <p> Lorem ipsum
+            
+                 </p>
+                 
+                 <img src="https://via.placeholder.com/140*140" alt=""/>
+                 <button> Contact us </button>
+                 
+              </section>
+              
+              <section id="best_hunters">
+                
+                <h2> Best hunters </h2>
+                <!--Alignement texte à côté d'une image (gauche)-->
+                <div>
+                <img src="https://via.placeholder.com/70*70" alt=""/>
+                <p> Elveskiller22 </p><br><p> 2 captures-profile <br>               
+                <a href="">profile</a><br>
+                <a href=""> like </a></p>
+                </div>
+               
+                <!--Alignement texte à côté d'une image (droite)-->
+                <div>
+                <img src="https://via.placeholder.com/70*70" alt=""/>
+                <p> Goblin45</p> <br><p> 1 capture-profile <br> 
+                <a href="">profile </a><br>
+                <a href=""> like </a></p>
+                </div>
+                
+                           
+               </section>
+              
+               <section id="about_ring">
+                <h2> About the ring </h2>
+                <p> Ring Capabilities </p>
+                <p> What can our master Sauron do with the ring ? </p>
+                
+                <table>
+                    <thead>
+                        
+                        <tr>
+                            <th> Feature </th>
+                            <th> Description </th>                       
+                            
+                        </tr>                   
+                      
+                    </thead>
+                    <tbody>
+                        
+                        <tr>
+                            <td> Main </td>
+                            <td> One ring to rules them all </td>                                                      
+                        </tr>
+                        
+                        <tr>
+                            <td> Invisibility </td>
+                            <td> You can't see me </td>
+                                                    
+                        </tr>
+                        
+                        <tr>
+                            <td> Power </td>
+                            <td> Destroy the world </td>                     
+                            
+                        </tr>                  
+                        
+                    </tbody>
+                                                          
+                </table>
+                
+                <p> Why the ring is awesome ? </p>
+                <p> My precioooooossssss ! Hrk Hrk, we want our preeciooooouuusssss !! </p>
+                <p>Gollum</p>
+                
+                <img src="https://via.placeholder.com/110*110" alt=""/>
+            
+                                
+          </section>
+              
+          <section id="join_army">
+             
+              <h2> Join Mordor Army, we need you ! </h2>
+              
+              <!--Alignement texte à côté d'une image (gauche)-->
+              <img src="https://via.placeholder.com/140*140" alt=""/>
+              <p>
+                Lorem ipsum
+                
+                
+              </p>
+              <button> More info on SauronRulesThemAll.com </button>
+              
+             </section>
+             
+              
+             <section id="contact_us">
+        
+                 <h2> Contact us </h2>
+                             
+                 <form method="post" action="traitement.php">
+                    
+                    <input type="text" placeholder="@" id="mail"/>
+                    <input type="text" id="home"/>
+                    <select>
+                        <option>I have seen one of them</option>
+                        <option>I have captured one of them</option>
+                        <option>I want to join your army</option>
+                    </select>
+                    <textarea id="message"> Your message</textarea>
+                </form>           
+          
+            </section>
+        
+            <footer>
+                
+                <ul>
+                
+                    <!--liens à l'interieur du site web-->
+                    <li> <a href="#about_us">About us</a> </li>
+                    <li> <a href="#fellows">fellows</a> </li>
+                    <li> <a href="#join_army">Join our army</a> </li>
+                    <li> <a href="#about_ring">FAQ</a> </li>
+                    <li> <a href="#reward">Reward conditions</a> </li>
+                    <li> <a href="">Legal mentions</a> </li>
+                
+                </ul>
+            
+                <ul>
+                    <!--liens externes-->
+                    <li> <a href="htpps://Sauron4Ever.com">Sauron4Ever.com</a> </li>
+                    <li> <a href="htpps://twitter.com/Sauron">Follow him also on twitter</a> </li>
+                </ul>          
+                
+            </footer>
+            
+        </body>  
+    
+</html>
