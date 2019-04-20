@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8" />
+        <title> findThePrecious </title>
+        <link rel="stylesheet" href="gandalf.css"/>
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    </head>
+
+<body>
+    
+  <div class="fellow_wanted">
+                   
+        <div class="fellow_reward">
+
+          Reward <span>1000</span><br>golden coins
+
+        </div>
+                
+              
+       <a href="#"><img class="fellow_picture" src="http://images.innoveduc.fr/integration_gandalf.png" alt="Gandalf"/></a>
+  
+   <div class="fellow_name">
+     
+     Gandalf
+        
+  </div>
+        </div>
+                   
+            
+        </body>  
+    
+</html>
