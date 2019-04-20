@@ -1,0 +1,50 @@
+.fellow_wanted{
+    position: relative;
+}
+
+.fellow_reward{
+    position: absolute;
+    width:450px;
+    top:30px;
+    left:25px; 
+    background-color:#E6E6E6;
+    opacity:1;
+    padding-top:40px;
+    padding-bottom:40px;
+    z-index:2;
+    font-size:30px;
+    border-radius:10px;
+    font-family:verdana;
+    text-align:center;
+}
+
+span{
+    color: #DF3A01;
+}
+
+.fellow_picture{
+    z-index: 1;
+    opacity:0.5;  
+}
+  .fellow_name{
+    position: absolute;
+    left: 120px;
+    bottom: 210px;
+    color: white;
+    font-size:55px;
+    font-family:verdana;
+    z-index:3;
+}
+
+.fellow_wanted:hover .fellow_picture{
+    opacity: 1;    
+}
+
+.fellow_wanted:hover .fellow_reward {
+    display:none;
+}
+
+.fellow_wanted:hover .fellow_name {
+    left:500px;  
+}
+    
