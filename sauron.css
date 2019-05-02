@@ -1,0 +1,15 @@
+.col-1  {
+  border: 1px solid white;
+  background : #2E2E2E;
+  padding-top: 8%;
+}
+
+.orange{
+    background-color: orange;    
+}
+.yellow{
+    background-color: yellow;
+}
+.black{
+    background-color: black;
+}
